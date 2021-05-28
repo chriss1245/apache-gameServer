@@ -1,2 +1,3 @@
 gameServer
 .gitignore
+__pycache__
